@@ -1,0 +1,3 @@
+APPLICATION_NAME=PDF Generator XLS2PDF
+EXECUTABLE=PDF Generator XLS2PDF.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/PDF Generator XLS2PDF/manifest.xml
